@@ -18,7 +18,7 @@ Visualization
 -Data Visualization Project
 
 ## 📫 Connect With Me
--LnkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389
 -Email: adityayadav12193@gmail.com
 
 <!--
