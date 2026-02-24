@@ -9,6 +9,8 @@ Visualization
 ## 🛠 Skills 
 -Python
 -Pandas
+-NumPy
+-Scikit-Learn
 -Matplotlib
 -Seaborn
 -mysql
