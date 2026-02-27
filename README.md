@@ -4,8 +4,8 @@
 ## 🚀 About Me 
 Hi,I'm Aditya Yadav - an aspiring Junior Data Scientist with hands-on experience in data analysis and machine learning
 Projects.
-I enjoy transforming raw data into meaningful insights using Python,SQL,and data visualization tools.
-Currently building projects focused on business insights and predictive modelin.
+I enjoy buliding predictive models, analyzing real-world datasets, and extracting actionable insights.
+Currently focused on developing-end-to-end ML solution and improving model performance.
 ## 🛠 Skills 
 **Programming:** Python.  
 
