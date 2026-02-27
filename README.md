@@ -14,8 +14,12 @@ Data Visualization: Matplotlib, Seaborn, Tableau.
 Machine Learing: Scikit-learn.
 
 ## 📂 Projects
-1 - Data Analytics Project.
-2 - Student Succes Prediction System.
+### Data Analytics Project
+Exploratory data analysis and visualization to uncover business insights.
+View Repository.
+### Student Succes Prediction System
+Machine learning model to predict student performance using classification algorithms.
+View Repository.
 
 ## 📫 Connect With Me
 -LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389
