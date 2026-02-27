@@ -7,17 +7,15 @@ Projects.
 I enjoy transforming raw data into meaningful insights using Python,SQL,and data visualization tools.
 Currently building projects focused on business insights and predictive modelin.
 ## 🛠 Skills 
--Python
--Pandas
--NumPy
--Scikit-Learn
--Matplotlib
--Seaborn
--mysql
+Programming: Python.
+Database: MySQL.
+Data Analysis: Pandas, NumPy.
+Data Visualization: Matplotlib, Seaborn, Tableau.
+Machine Learing: Scikit-learn.
 
 ## 📂 Projects
--Supply Chain Data Analysis
--Data Visualization Project
+1 - Data Analytics Project.
+2 - Student Succes Prediction System.
 
 ## 📫 Connect With Me
 -LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389
