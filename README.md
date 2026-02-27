@@ -7,19 +7,23 @@ Projects.
 I enjoy transforming raw data into meaningful insights using Python,SQL,and data visualization tools.
 Currently building projects focused on business insights and predictive modelin.
 ## 🛠 Skills 
-Programming: Python.
-Database: MySQL.
-Data Analysis: Pandas, NumPy.
-Data Visualization: Matplotlib, Seaborn, Tableau.
-Machine Learing: Scikit-learn.
+**Programming:** Python.  
+
+**Database:** MySQL.  
+
+**Data Analysis:** Pandas, NumPy.  
+
+**Data Visualization:** Matplotlib, Seaborn, Tableau.  
+
+**Machine Learing:** Scikit-learn.
 
 ## 📂 Projects
 ### Data Analytics Project
 Exploratory data analysis and visualization to uncover business insights.
-View Repository.
+[Explore Project](https://github.com/adityayadav73/Data-Analytics-Project)
 ### Student Succes Prediction System
 Machine learning model to predict student performance using classification algorithms.
-[View Repository](https://github.com/adityayadav73/Student-Success-Predictor)
+[Explore Project](https://github.com/adityayadav73/Student-Success-Predictor)
 
 ## 📫 Connect With Me
 -LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389
