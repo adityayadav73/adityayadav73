@@ -19,7 +19,7 @@ Exploratory data analysis and visualization to uncover business insights.
 View Repository.
 ### Student Succes Prediction System
 Machine learning model to predict student performance using classification algorithms.
-View Repository.
+[View Repository](https://github.com/adityayadav73/Student-Success-Predictor)
 
 ## 📫 Connect With Me
 -LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389
