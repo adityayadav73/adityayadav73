@@ -18,10 +18,12 @@ Currently focused on developing-end-to-end ML solution and improving model perfo
 **Machine Learing:** Scikit-learn.
 
 ## 📂 Projects
-### Data Analytics Project
+**Data Analytics Project**  
+
 Exploratory data analysis and visualization to uncover business insights.
 [Explore Project](https://github.com/adityayadav73/Data-Analytics-Project)
-### Student Succes Prediction System
+**Student Succes Prediction System**  
+
 Machine learning model to predict student performance using classification algorithms.
 [Explore Project](https://github.com/adityayadav73/Student-Success-Predictor)
 
