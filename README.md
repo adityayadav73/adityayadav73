@@ -2,10 +2,10 @@
 🔥
 💻
 ## 🚀 About Me 
-📊 Aspring Data Analyst
-📈 Passionate about Data Analysis &
-Visualization
-
+Hi,I'm Aditya Yadav - an aspiring Data Analyst with hands-on experience in data analysis and machine learning
+Projects.
+I enjoy transforming raw data into meaningful insights using Python,SQL,and data visualization tools.
+Currently building projects focused on business insights and predictive modelin.
 ## 🛠 Skills 
 -Python
 -Pandas
