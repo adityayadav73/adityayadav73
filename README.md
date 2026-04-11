@@ -22,13 +22,13 @@ Currently focused on developing-end-to-end ML solution and improving model perfo
  Exploratory data analysis and visualization to uncover business insights.
  [Explore Project](https://github.com/adityayadav73/Data-Analytics-Project)  
  
-**Student Succes Prediction System**  
+**Student Success Prediction System**  
 Machine learning model to predict student performance using classification algorithms.
 [Explore Project](https://github.com/adityayadav73/Student-Success-Predictor)
 
 ## 📫 Connect With Me
 -**LinkedIn:** https://www.linkedin.com/in/aditya-yadav-4766ba389  
--**Tableau:** [My Data Visualization Protfolio](https://public.tableau.com/app/profile/aditya.yadav3016/vizzes)   
+-**Tableau:** [My Data Visualization Portfolio](https://public.tableau.com/app/profile/aditya.yadav3016/vizzes)   
 -**Email:** adityayadav12193@gmail.com
 
 <!--
