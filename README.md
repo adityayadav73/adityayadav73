@@ -28,6 +28,7 @@ Machine learning model to predict student performance using classification algor
 
 ## 📫 Connect With Me
 -LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389
+-Tableau: [My Data Visualization Protfolio]https://public.tableau.com/app/profile/aditya.yadav3016/vizzes
 -Email: adityayadav12193@gmail.com
 
 <!--
