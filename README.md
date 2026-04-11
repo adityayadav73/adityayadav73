@@ -27,9 +27,9 @@ Machine learning model to predict student performance using classification algor
 [Explore Project](https://github.com/adityayadav73/Student-Success-Predictor)
 
 ## 📫 Connect With Me
-**-LinkedIn: https://www.linkedin.com/in/aditya-yadav-4766ba389**
--**Tableau:** [My Data Visualization Protfolio]https://public.tableau.com/app/profile/aditya.yadav3016/vizzes
--Email: adityayadav12193@gmail.com
+-**LinkedIn:** https://www.linkedin.com/in/aditya-yadav-4766ba389  
+-**Tableau:** [My Data Visualization Protfolio]https://public.tableau.com/app/profile/aditya.yadav3016/vizzes  
+-**Email:** adityayadav12193@gmail.com
 
 <!--
 **adityayadav73/adityayadav73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
